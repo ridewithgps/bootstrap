@@ -357,6 +357,23 @@ fieldset[disabled] .btn-danger.active {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff7700', endColorstr='#ffe66b00', GradientType=0);
   background-repeat: repeat-x;
 }
+.carousel-control .icon-next,
+.carousel-control .icon-prev {
+  width: 24px;
+  height: 24px;
+  line-height: 13px;
+  color: #fff;
+  background: #222;
+  border: 2px solid #fff;
+  border-radius: 23px;
+  opacity: .7;
+}
+.carousel-control .icon-next {
+  padding-left: 3px;
+}
+.carousel-control .icon-prev {
+  padding-right: 1px;
+}
 .modal-footer {
   background: #f5f5f5;
   border-radius: 0 0 6px 6px;
