@@ -6,6 +6,9 @@
 html {
   font-size: 100%;
 }
+label {
+  font-weight: normal;
+}
 .btn-default,
 .btn-primary,
 .btn-success,
